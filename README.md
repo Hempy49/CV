@@ -8,21 +8,22 @@ I’ve always loved building things and working on projects. Programming satisfi
 
 ## Skills
 
-#### 
+#### Creative
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+As a keen musician, from a fine art background, I'm used to taking a creative approach to problem solving and enjoy dealing with abstract concepts. Inventive thinking is often very powerful when writing simple, clean code for complex programs. 
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+#### Attention to detail
+
+From marking students work to event organisation, having a keen eye for the fine details has been vital in my previous professional roles.
+
+#### Diligent
 
 #### Initiative 
 
 I've always been a pro-active person, good at spotting opportunities and finding solutions to problems. When I completed my undergrauate degree I was offered a job teaching English in Busan, South Korea. After 3 months of living there, the academy where I worked had to close due to financial difficulties. Instead of returning home, I managed to resolve visa complications and found a new teaching job, despite having very few contacts in Korea at that time.          
 
 
-#### Another Skill
+#### Team player 
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -33,7 +34,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Projects
 
-For a complete list, see my GitHub. 
+For a complete list, see my [GitHub](https://github.com/Hempy49).
 
 
 ## Education
@@ -69,7 +70,7 @@ Skills include:
 
 #### Beaumont School, St Albans (September 2000 to July 2004)
 
-- A Levels: Art(A), Photography(A), Product Design(B)
+- A Levels: Art (A), Photography (A), Product Design (B)
 - GCSE's: 7 (A), 2 (B), 1 (C)  
 
 ## Experience
@@ -87,7 +88,7 @@ Part of a team that oversaw the launch of the first digital teaching resources m
 
 ## Interests
 
-- **Songwriting** I play saxophone, guitar and bass.
+- **Songwriting** I can play saxophone, guitar, and bass to a half decent standard. 
 - **Swimming** I try to swim at least once a week. I love heading to a local lido in the summer!
-- **Diving, snorkelling** I'm an animal lover and have had a lifelong fascination with sealife.
+- **Diving, snorkelling** I'm an animal lover and have had a lifelong fascination with sealife (for some unkown reason!).
 - **Travelling** Living abroad for two years definitely gave me the travel bug.    
