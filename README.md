@@ -8,13 +8,19 @@ I’ve always loved building things and working on projects. Programming satisfi
 
 ## Skills
 
-#### This Skill
+#### 
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
-- Experience
-- Achievements
-- Evidence
+- I achieved A during my work at B (job, or otherwise)
+- I contributed to the growth of X while doing Y (job, or otherwise)
+- I built this, made this, broke this, fixed this, etc.
+- A link to some on-line evidence (blogs, videos, articles, etc.)
+
+#### Initiative 
+
+I've always been a pro-active person, good at spotting opportunities and finding solutions to problems. When I completed my undergrauate degree I was offered a job teaching English in Busan, South Korea. After 3 months of living there, the academy where I worked had to close due to financial difficulties. Instead of returning home, I managed to resolve visa complications and found a new teaching job, despite having very few contacts in Korea at that time.          
+
 
 #### Another Skill
 
@@ -28,6 +34,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 ## Projects
 
 For a complete list, see my GitHub. 
+
 
 ## Education
 
@@ -52,18 +59,35 @@ Skills include:
 
 - PGCE Primary 5-11 years (incl. Masters credits)
 - Achieved fully qualified teacher status (QTS) with Outstanding lesson observation scores. 
-- Taught TEFL in Busan, South Korea for 1.5 years. 
 - Learnt visual programming language 'Scratch', to teach computer programming basics to my pupils.   
 
 #### Reading University (September 2004 to July 2008)
  
-- Fine Art, BA (Hons), 1st
+- Fine Art, BA (Hons), 1st, specialising in video and digital imaging. 
 - Organised several public exhibitons around Berkshire to raise money for charities including the National Aids Trust and Cancer Research UK. 
 - Had my artwork selected for the front cover of the monthly university magazine. 
 
+#### Beaumont School, St Albans (September 2000 to July 2004)
+
+- A Levels: Art(A), Photography(A), Product Design(B)
+- GCSE's: 7 (A), 2 (B), 1 (C)  
+
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**King's College London** (May 2016 to April 2017)    
+*Projects Officer*
+
+Responsible for supporting various projects across the KCL health faculties, including providing direct support to the Dean of Education, managing / updating KCL website pages, organising institute events.        
+
+**TES Global** (May 2015 to April 2016)   
+*Content Acquisition Adviser*  
+
+Part of a team that oversaw the launch of the first digital teaching resources marketplace in the UK. I was responsible for building relationships with premium content authors and growing author / content numbers. This was supported by the use of customer relationship management and data analytics software. I was trained in the use of Drupal CMS and required to make basic HTML/ CSS updates.      
+
+
+## Interests
+
+- **Songwriting** I play saxophone, guitar and bass.
+- **Swimming** I try to swim at least once a week. I love heading to a local lido in the summer!
+- **Diving, snorkelling** I'm an animal lover and have had a lifelong fascination with sealife.
+- **Travelling** Living abroad for two years definitely gave me the travel bug.    
