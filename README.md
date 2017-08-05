@@ -18,7 +18,7 @@ From marking students work to event organisation, having a keen eye for the fine
 
 #### Initiative 
 
-I've always been a pro-active person, good at spotting opportunities and finding solutions to problems. When I completed my undergrauate degree I was offered a job teaching English in Busan, South Korea. After 3 months of living there, the academy where I worked had to close due to financial difficulties. Instead of returning home, I managed to resolve visa complications and found a new teaching job, despite having very few contacts in Korea at that time.          
+I've always been a pro-active person, good at spotting opportunities and finding solutions to problems. When I completed my undergraduate degree I was offered a job teaching English in Busan, South Korea. After 3 months of living there, the academy where I worked had to close due to financial difficulties. Instead of returning home, I managed to resolve visa complications and found a new teaching job, despite having very few contacts in Korea at that time.          
 
 #### Team player 
 
@@ -27,7 +27,13 @@ While I am self-motivated and work well off my own initiative, I often find work
 
 ## Projects
 
-For a complete list, see my [GitHub](https://github.com/Hempy49).
+Project | Description | Code Links | Technologies Used | Testing Technologies
+--- | --- | --- | --- | ---
+**Chitter** | A Makers Academy weekend challenge to produce a lightweight Twitter clone |[Heroku](https://hempy-chitter.herokuapp.com/) [Github](https://github.com/Hempy49/chitter-challenge) | Ruby, Sinatra, Postgres /w DataMapper, HTML5(ERB), Bootstrap CSS | RSpec, Capybara
+**Ping** | A group project to build the retro game of Pong in javascript | [Github](https://github.com/tbscanlon/ping-js)|Javascript, HTML5 canvas, Bootstrap CSS | Jasmine, Canteen
+**Hempy-gram** | A simple Instagram clone written over a weekend as part of Makers Academy's weekend challenges | [Github](https://github.com/Hempy49/instagram-challenge)| Ruby, Rails, Postgres /w ActiveRecord, HTML5, Bootstrap CSS | RSpec, Capybara
+
+For a complete list, please check out my [GitHub repos](https://github.com/Hempy49).
 
 
 ## Education
@@ -44,9 +50,9 @@ For a complete list, see my [GitHub](https://github.com/Hempy49).
 
 Skills include:
 
-- OOP, TDD, SOLID, MVC, DDD
+- OOP, TDD, SOLID, MVC
 - Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+- Rspec, Jasmine
 
 
 #### Brighton University (September 2011 to July 2012)
@@ -58,7 +64,7 @@ Skills include:
 #### Reading University (September 2004 to July 2008)
  
 - Fine Art, BA (Hons), 1st, specialising in video and digital imaging. 
-- Organised several public exhibitons around Berkshire to raise money for charities including the National Aids Trust and Cancer Research UK.  
+- Organised several public exhibitions around Berkshire to raise money for charities including the National Aids Trust and Cancer Research UK.  
 
 #### Beaumont School, St Albans (September 2000 to July 2004)
 
@@ -98,6 +104,6 @@ Oversaw the teaching of a variety of subjects in English to Korean students aged
 
 - **Swimming** I try to swim at least once a week. I love heading to a local lido in the summer!
 
-- **Diving, snorkelling** I'm an animal lover and have had a lifelong fascination with sealife (for some unkown reason!).
+- **Diving, snorkelling** I'm an animal lover and have had a lifelong fascination with sea-life (for some unknown reason!).
 
 - **Travelling** Living abroad for two years definitely gave me the travel bug and I'm always looking for excuses to jump on a plane to explore a new corner of the world.    
