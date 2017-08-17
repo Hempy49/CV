@@ -50,9 +50,9 @@ For a complete list, please check out my [GitHub repos](https://github.com/Hempy
 
 Skills include:
 
-- OOP, TDD, SOLID, MVC
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine
+- OOP, TDD, MVC
+- Ruby, Rails, Javascript, Node.js
+- Rspec, Jasmine, Mocha
 
 
 #### Brighton University (September 2011 to July 2012)
