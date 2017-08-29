@@ -10,7 +10,7 @@ I’ve always loved building things and working on projects. Programming satisfi
 
 #### Creative
 
-As a keen musician with a fine art background, I'm used to taking a creative approach to problem solving and enjoy dealing with abstract concepts. Inventive thinking can be very powerful when writing elegant code for complex programs and this is not something I shy away from. 
+As a keen musician with a fine art background, I'm used to taking a creative approach to problem solving and enjoy dealing with abstract concepts. Inventive thinking can be very powerful when writing clean code for complex programs and this is not something I shy away from. 
 
 #### Attention to detail
 
@@ -31,7 +31,7 @@ Project | Description | Code Links | Technologies Used | Testing Technologies
 --- | --- | --- | --- | ---
 **Chitter** | A Makers Academy weekend challenge to produce a lightweight Twitter clone |[Heroku](https://hempy-chitter.herokuapp.com/) [Github](https://github.com/Hempy49/chitter-challenge) | Ruby, Sinatra, Postgres /w DataMapper, HTML5(ERB), Bootstrap CSS | RSpec, Capybara
 **Ping** | A group project to build the retro game of Pong in javascript | [Github](https://github.com/tbscanlon/ping-js)|Javascript, HTML5 canvas, Bootstrap CSS | Jasmine, Canteen
-**Hempy-gram** | A simple Instagram clone written over a weekend as part of Makers Academy's weekend challenges | [Github](https://github.com/Hempy49/instagram-challenge)| Ruby, Rails, Postgres /w ActiveRecord, HTML5, Bootstrap CSS | RSpec, Capybara
+**Zombie Paint** | Makers Academy final project, Zombie Paint brings MS Paint back from the dead with this early Windows clone. | [Github](https://github.com/MarySalemme/zombie-paint) [Firebase](https://zombie-paint-902ce.firebaseapp.com)| Javascript, jQuery, HTML5 canvas, CSS | Mocha, Chai, Canteen
 
 For a complete list, please check out my [GitHub repos](https://github.com/Hempy49).
 
