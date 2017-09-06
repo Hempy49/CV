@@ -30,8 +30,8 @@ While I am self-motivated and work well off my own initiative, I often find work
 Project | Description | Code Links | Technologies Used | Testing Technologies
 --- | --- | --- | --- | ---
 **Chitter** | A Makers Academy weekend challenge to produce a lightweight Twitter clone |[Heroku](https://hempy-chitter.herokuapp.com/) [Github](https://github.com/Hempy49/chitter-challenge) | Ruby, Sinatra, Postgres /w DataMapper, HTML5(ERB), Bootstrap CSS | RSpec, Capybara
-**Ping** | A group project to build the retro game of Pong in javascript | [Github](https://github.com/tbscanlon/ping-js)|Javascript, HTML5 canvas, Bootstrap CSS | Jasmine, Canteen
-**Zombie Paint** | Makers Academy final project, Zombie Paint brings MS Paint back from the dead with this early Windows clone. | [Github](https://github.com/MarySalemme/zombie-paint) [Firebase](https://zombie-paint-902ce.firebaseapp.com)| Javascript, jQuery, HTML5 canvas, CSS | Mocha, Chai, Canteen
+**Ping** | A group project to build the retro game of Pong in javascript | [Firebase](https://ping-js.firebaseapp.com/) [Github](https://github.com/tbscanlon/ping-js)|Javascript, HTML5 canvas, Bootstrap CSS | Jasmine, Canteen
+**Zombie Paint** | Makers Academy final project, Zombie Paint brings MS Paint back from the dead with this early Windows clone. | [Firebase](https://zombie-paint-902ce.firebaseapp.com) [Github](https://github.com/MarySalemme/zombie-paint)| Javascript, jQuery, HTML5 canvas, CSS | Mocha, Chai, Canteen
 
 For a complete list, please check out my [GitHub repos](https://github.com/Hempy49).
 
