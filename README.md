@@ -1,6 +1,6 @@
 ## Simon Hempenstall
 
-**Currently learning to code at Makers Academy, Europe's leading Web Developer bootcamp.**  
+**Junior developer, actively seeking work. Recent graduate of Makers Academy, Europe's leading Web Developer bootcamp.**  
 
 I got my first taste of coding several years ago while working as a primary school teacher. There I learnt how to use Scratch to teach children the basics of programming. This sparked an interest in coding that has grown ever since. I left teaching a few years ago to work for a digital education company, where I was employed as a senior advisor for their website. In this role I got the chance to work alongside experienced software engineers and learnt some basic HTML / CSS. I quickly realised I wanted the developers jobs and I was in the wrong team! 
 
