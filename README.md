@@ -6,11 +6,11 @@ Experienced Solutions Engineer with a demonstrated history of working in the inf
 
 ## Skills
 
-SaaS, OOP, TDD, MVC
-Ruby, Rails, Javascript, jQuery, Node.js, React.js
-Rspec, Jasmine, Mocha
-PostgreSQL, SQL
-Git, Github
+SaaS, OOP, TDD, MVC,
+Ruby, Rails, Javascript, jQuery, Node.js, React.js,
+Rspec, Jasmine, Mocha,
+PostgreSQL, SQL,
+Git, Github,
 Adobe Photoshop and Creative Suite 
 
 ## Projects
@@ -114,6 +114,6 @@ Oversaw the teaching of a variety of subjects in English to Korean students aged
 
 - **Swimming** I try to swim at least once a week. I love heading to a local lido in the summer.
 
-- **Diving, snorkelling** I'm an animal lover and have had a lifelong fascination with sea-life (for some unknown reason!).
+- **Diving, snorkelling** I'm an animal lover and have had a lifelong fascination with sea-life (for some unknown reason!)
 
 - **Travelling** Living abroad for two years definitely gave me the travel bug and I'm always looking for excuses to jump on a plane to explore a new corner of the world.    
