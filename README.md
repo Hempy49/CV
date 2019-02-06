@@ -70,18 +70,14 @@ The main purpose of this role is to ensure the successful on-boarding/ product d
 **Decibel** (Nov 2017 to Oct 2018)    
 *Technical Support Analyst*
 
-Helping to support and develop the first platform designed specifically to help clients quickly understand and improve customer experiences online, using digital experience intelligence.
-
 Tasks and highlights include:
 - Writing custom Javascript to implement the Decibel platform seamlessly with client websites/ apps 
 - Developing and maintaining Chrome extensions in React JS, to automate tasks for internal teams
 - Dealing with, debugging and resolving technical issues raised by clients
-- Running deep dive training sessions for Service Delivery team, to share technical knowledge around version control and programming languages
+- Running deep dive training sessions to share technical knowledge around various new technologies
 - Supporting new clients with on-boarding
-- Training and point of escalation for new Technical Support Analysts
-- Using HTML, CSS, JavaScript and browser consoles on a daily basis
-- Escalating relevant issues and working closely with engineering team
-- Providing suggestions to product team based on client feedback and usage
+- Using HTML, CSS, JavaScript, and browser consoles on a daily basis
+- Escalating relevant bugs/ issues and working closely with the engineering team
 
 **King's College London** (May 2016 to April 2017)    
 *Digital Projects Officer*
