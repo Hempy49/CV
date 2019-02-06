@@ -27,7 +27,7 @@ For a complete list, please check out my [GitHub repos](https://github.com/Hempy
 
 ## Education
 
-#### Makers Academy (May 2017 to August 2017)
+#### Makers Academy (May 2017 to September 2017)
 
 16 Week intensive coding bootcamp with 10% acceptance rate, emphasising:
 
