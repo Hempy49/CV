@@ -1,29 +1,17 @@
 ## Simon Hempenstall
 
-**Junior developer, actively seeking work. Recent graduate of Makers Academy, Europe's leading Web Developer bootcamp.**  
+**Solutions Engineer**  
 
-I got my first taste of coding several years ago while working as a primary school teacher. There I learnt how to use Scratch to teach children the basics of programming. This sparked an interest in coding that has grown ever since. I left teaching a few years ago to work for a digital education company, where I was employed as a senior advisor for their website. In this role I got the chance to work alongside experienced software engineers and learnt some basic HTML / CSS. I quickly realised I wanted the developers jobs and I was in the wrong team! 
-
-I’ve always loved building things and working on projects. Programming satisfies my love of making things while simultaneously building up a valuable technical skill set. After Makers I'll be looking to start my first junior developer role in an ambitious, socially responsible company, who are as enthusiastic about software development as I am. I want to join a team that will support but also challenge me on a daily basis to help me best evolve as a developer.    
+Experienced Solutions Engineer with a demonstrated history of working in the information technology and services industry. Skilled in Web Development, DataAnalytics, JavaScript, Ruby, and SaaS products. Recently graduated from Makers Academy, where I trained in Full Stack Web Development. I’m passionate about writing high quality code and learning new technologies.  
 
 ## Skills
 
-#### Creative
-
-As a keen musician with a fine art background, I'm used to taking a creative approach to problem solving and enjoy dealing with abstract concepts. Inventive thinking can be very powerful when writing clean code for complex programs and this is not something I shy away from. 
-
-#### Attention to detail
-
-From marking students work to event organisation, having a keen eye for the fine details has been vital in my previous professional roles.
-
-#### Initiative 
-
-I've always been a pro-active person, good at spotting opportunities and finding solutions to problems. When I completed my undergraduate degree I was offered a job teaching English in Busan, South Korea. After 3 months of living there, the academy where I worked had to close due to financial difficulties. Instead of returning home, I managed to resolve visa complications and found a new teaching job, despite having very few contacts in Korea at that time.          
-
-#### Team player 
-
-While I am self-motivated and work well off my own initiative, I often find working collaboratively yields the best results and is something I really enjoy. I have direct experience of this from my teaching background, where planning lessons with colleagues and sharing effective pedagogical techniques, continually produced the best results in the classroom. At TES Global I worked as part of a close team who saw the first digital teaching resources marketplace launched on time, budget and with targets exceeded.
-
+SaaS, OOP, TDD, MVC
+Ruby, Rails, Javascript, jQuery, Node.js, React.js
+Rspec, Jasmine, Mocha
+PostgreSQL, SQL
+Git, Github
+Adobe Photoshop and Creative Suite 
 
 ## Projects
 
@@ -74,10 +62,31 @@ Skills include:
 
 ## Experience
 
-**King's College London** (May 2016 to April 2017)    
-*Projects Officer*
+**Decibel** (Nov 2018 to Present)    
+*Solutions Engineer*
 
-Responsible for supporting various projects across the KCL health faculties, including providing direct support to the Dean of Education, managing / updating KCL website pages, and organising institute events.        
+The main purpose of this role is to ensure the successful on-boarding/ product delivery to EMEA clients, while also being an escalation point for Technical Support Analysts. This is achieved by utilising skills in front-end web development, technical consulting, data analytics and product management. I am also required to assist with sales demos, along with leading Proof of Concepts from a technical standpoint.
+
+**Decibel** (Nov 2017 to Oct 2018)    
+*Technical Support Analyst*
+
+Helping to support and develop the first platform designed specifically to help clients quickly understand and improve customer experiences online, using digital experience intelligence.
+
+Tasks and highlights include:
+- Writing custom Javascript to implement the Decibel platform seamlessly with client websites/ apps 
+- Developing and maintaining Chrome extensions in React JS, to automate tasks for internal teams
+- Dealing with, debugging and resolving technical issues raised by clients
+- Running deep dive training sessions for Service Delivery team, to share technical knowledge around version control and programming languages
+- Supporting new clients with on-boarding
+- Training and point of escalation for new Technical Support Analysts
+- Using HTML, CSS, JavaScript and browser consoles on a daily basis
+- Escalating relevant issues and working closely with engineering team
+- Providing suggestions to product team based on client feedback and usage
+
+**King's College London** (May 2016 to April 2017)    
+*Digital Projects Officer*
+
+Responsible for supporting various projects across the KCL health faculties, including providing direct support to the Dean of Education, managing updates to KCL website using CMS, HTML/ CSS, and creating digital content for institute events.   
 
 **TES Global** (September 2014 to April 2016)   
 *Content Acquisition Adviser*  
@@ -101,9 +110,9 @@ Oversaw the teaching of a variety of subjects in English to Korean students aged
 
 ## Interests
 
-- **Songwriting** I can play saxophone, guitar, and bass to a half decent standard. 
+- **Songwriting** I play saxophone, guitar, bass and enjoy performing gigs when I find the time. 
 
-- **Swimming** I try to swim at least once a week. I love heading to a local lido in the summer!
+- **Swimming** I try to swim at least once a week. I love heading to a local lido in the summer.
 
 - **Diving, snorkelling** I'm an animal lover and have had a lifelong fascination with sea-life (for some unknown reason!).
 
