@@ -106,7 +106,7 @@ Oversaw the teaching of a variety of subjects in English to Korean students aged
 
 ## Interests
 
-- **Songwriting** I play saxophone, guitar, bass and enjoy performing gigs when I find the time. 
+- **Songwriting** I play saxophone, guitar, bass and enjoy performing when I find the time. 
 
 - **Swimming** I try to swim at least once a week. I love heading to a local lido in the summer.
 
